@@ -1,1 +1,1 @@
-hi this is the first txt file i make for git
+hi this is the first txt file i make for git 1
